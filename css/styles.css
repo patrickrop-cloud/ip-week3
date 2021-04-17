@@ -12,3 +12,24 @@
     font-size: 10px;
     color: white;
 }
+/* 
+.portfolio{
+    background-image: url("images/portfolio");
+    background-repeat: no-repeat;
+
+} */
+.welcome{
+    font-size: large;
+    text-transform: uppercase;
+    padding: 8%;
+}
+.h3{
+    text-align: center;
+    font-size: 80px;
+
+}
+.about{
+    text-align: center;
+    padding-bottom: 25px;
+    
+}
