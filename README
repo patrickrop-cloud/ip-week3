@@ -1,0 +1,27 @@
+## Author
+Patrick Rop
+
+## Patrick Rop-Independent Project week3
+In this week Independent project, the task is to implement knowledge  learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio dubbed Delani studio.
+
+## Installation
+
+Use git, Github and any editor or IDE to see the codes and the rendered frontend.
+
+## Usage
+
+This project has used HTMl for markup and CSS and Bootstrap for styling the page. Also javascript has been used together with jquery library for interactivity.
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Website's link
+to view Live click Here:https://github.com/patrickrop-cloud/ip-week3
+
+## License
+This Website uses MIT LICENSE. For more Read on License.
+
+Copyright (c) 2021 Patrick Rop
