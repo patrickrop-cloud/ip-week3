@@ -1,6 +1,10 @@
-// $("#design").hover(
-//     function() {
-//     console.log("hovering");
-//     }
-//   );
-  
+$("#design").hover(
+    function() {
+         $("#description-design").toggle()
+         $("#design").toggle()
+     }, 
+     function() {
+         $("#description-design").toggle()
+         $("#design").toggle()
+     }
+);
