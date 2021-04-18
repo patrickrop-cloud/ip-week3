@@ -1,8 +1,54 @@
-*{
-    box-sizing: border-box;
-}
 
 .home{
+    padding-top: 240px;
+    padding-bottom: 5px;
+    color:white;
+    text-align: center;
+} 
+.welcome{
+    background-image: url("/images/backgrounds/h_img.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.logo{
+    width: 55px;
+    padding-bottom: 20px;
+
+}
+h1{
+    font-size: 25%;
+}
+h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.h2{
+    font-size: 10px;
+    padding-top: 0px;
+}
+.image-click{
+    padding-top:50px;
+    padding-bottom: 0px;
+}
+.about{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 300;
+}
+
+
+/* .home{
     background-image: url("/images/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
     text-align: center;
@@ -11,32 +57,45 @@
     text-align: center;
     font-size: 10px;
     color: white;
-}
-/* 
+} */ 
 .portfolio{
     background-image: url("images/portfolio");
     background-repeat: no-repeat;
 
-} */
-.welcome{
+} 
+/* .welcome{
     font-size: large;
     text-transform: uppercase;
-    padding: 8%;
+    padding: 8%; */
 }
 .h3{
     text-align: center;
     font-size: 80px;
 
-}
+/* }
 .about{
     text-align: center;
     padding-bottom: 25px;
-    
+     */
 }
 .services{
     background-image: url("/images/backgrounds/s_image.jpg");
-    background-repeat: no-repeat;
     text-align: center;
     font-size: 10px;
     color: white;
+    background-repeat: no-repeat;
+    padding: 4%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.design{
+    padding-top: 3px;
+}
+.contact{
+    background-image: url(/images/backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+}
+.hidden{
+    display: none;
 }
