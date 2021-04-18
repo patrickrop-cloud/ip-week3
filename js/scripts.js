@@ -19,3 +19,13 @@ $("#develope").hover(
         $("#develope").toggle()
     }
 );
+$("#product").hover(
+    function() {
+        $("#description-product").toggle()
+        $("#product").toggle()
+    },
+    function() {
+        $("#description-product").toggle()
+        $("#product").toggle()
+    }
+);
