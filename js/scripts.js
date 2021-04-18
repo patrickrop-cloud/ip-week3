@@ -8,3 +8,14 @@ $("#design").hover(
          $("#design").toggle()
      }
 );
+$("#develope").hover(
+    function() {
+        $("#description-develope").toggle()
+        $("#develope").toggle()
+
+    },
+    function() {
+        $("#description-develope").toggle()
+        $("#develope").toggle()
+    }
+);
