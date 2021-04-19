@@ -29,3 +29,6 @@ $("#product").hover(
         $("#product").toggle()
     }
 );
+$(".button").click(function(){
+    alert("Dear User we have recieved your message.Thank you for reaching out to us.");
+});

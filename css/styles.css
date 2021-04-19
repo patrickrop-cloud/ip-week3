@@ -94,13 +94,25 @@ h3{
     color: white;
     text-align: center;
 }
-#myform{
+#contact{
       background-image: url("../images/backgrounds/c_image.jpg");
       text-align: center;
       margin-top: 10px;
       padding-top: 20px;
       padding-bottom: 80px;
       text-align: center;
-      color: white;
       background-repeat: no-repeat;
+      background-size: cover;
+}
+.requiredmessage{
+    border: 1px solid white;
+    width: 650px;
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: white;
+    margin-top: -25px;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
 }
