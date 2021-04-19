@@ -24,7 +24,8 @@ p{
 
 .logo{
     width: 55px;
-    padding-bottom: 200px;
+    padding-bottom: 5px;
+    padding-top: 210px;
 
 }
 h1{
@@ -117,13 +118,19 @@ h3{
     /* margin-right: 30px;
     margin-left: 1px; */
 }
-.form{
+.form-group{
+    background: transparent;
+    
+    /* background: transparent;
     padding-bottom: 10%;
-    position: relative;
+    position: relative; */
 
 }
 .footer{
     text-align: center;
     margin-right: auto;
     margin-left: auto;
+}
+input[text],input[name], input[email]{
+    background: transparent;
 }
