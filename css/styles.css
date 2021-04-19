@@ -16,6 +16,11 @@
     margin-right: auto;
     margin-left: auto;
 }
+p{
+    font-size: 10px;
+    font-weight: 100;
+    font-style: normal;
+}
 
 .logo{
     width: 55px;
@@ -116,4 +121,9 @@ h3{
     padding-bottom: 10%;
     position: relative;
 
+}
+.footer{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
 }
